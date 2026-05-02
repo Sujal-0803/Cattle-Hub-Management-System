@@ -71,7 +71,7 @@ Open browser and run:
 
 http://localhost/Cattle-Hub-Management-System/
 
-📈 Future Improvements
+📈 Future Improvements:
 
 • Add user authentication system
 
@@ -83,9 +83,8 @@ http://localhost/Cattle-Hub-Management-System/
 
 • Cloud database integration
 
-👨‍💻 Author
-
-Sujal Maru
+👨‍💻 Author:
+ Sujal Maru
 
 GitHub: https://github.com/Sujal-0803
 
