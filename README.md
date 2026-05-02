@@ -1,7 +1,8 @@
-🐄 Cattle Hub – Management System
+🐄 Cattle Hub Management System
+
 📌 Overview
 
-Cattle Hub is a web-based application designed to manage and organize cattle-related information efficiently. The system helps farmers and livestock owners maintain digital records of their cattle, including details such as type, age, and health information.
+Cattle Hub Management System is a web-based application designed to manage and organize cattle-related information efficiently. The system helps farmers and livestock owners maintain digital records of their cattle, including details such as type, age, and health information.
 
 This project demonstrates a basic full-stack structure by combining frontend technologies with backend integration for storing and managing data, along with JavaScript for enhancing user interaction.
 
